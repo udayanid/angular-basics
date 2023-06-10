@@ -1,2 +1,1 @@
-# angular-basics
-Angular-Repository
+# angular-repository
